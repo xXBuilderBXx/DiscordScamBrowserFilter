@@ -4,13 +4,10 @@ This is a community submitted and automated list of known scam domain going arou
 
 # How to use
 
-### Install an ad blocker addon.
+### Install UBlock Origin addon.
 
-#### UBlock Origin (Recommended)
+#### UBlock Origin
 [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Opera](https://addons.opera.com/en-gb/extensions/details/ublock/) | [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) | [Safari v12 and below](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
-
-#### ADBlockPlus
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/adblock-plus/) | [Chrome](https://chrome.google.com/webstore/detail/cfhdojbkjhnklbpkdaibdccddilifddb) | [Opera](https://addons.opera.com/en-gb/extensions/details/adblock-plus/) | [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gmgoamodcdcjnbaobigkjelfplakmdhh) | [Safari v12 and below](https://apps.apple.com/us/app/adblock-plus-for-safari/id1432731683?ls=1)
 
 -----
 
