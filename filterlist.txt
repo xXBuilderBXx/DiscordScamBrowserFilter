@@ -7,3 +7,4 @@
 ||testdomain.com^$important,all
 ||testdomain2.com^$important,all
 ||testdomain3.com^$important,all
+||testdomain4.com^$important,all
