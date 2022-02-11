@@ -1,10 +1,6 @@
 ! Title: Discord Scam Filter
-! Expires: 1 hour
 ! Homepage: https://github.com/xXBuilderBXx/DiscordScamBrowserFilter
 
 # NOTICE: Sites listed here have been community submitted or automatically detected to be known scam links
 
-||testdomain.com^$important,all
-||testdomain2.com^$important,all
-||testdomain3.com^$important,all
-||testdomain4.com^$important,all
+||thisisatestdomain.com^$important,all
