@@ -17,13 +17,7 @@ This is a community submitted and automated list of known scam domain going arou
 
 ### Confirm to add
 
-UBlock
-
 ![image](https://user-images.githubusercontent.com/17956143/153526455-2f561ca8-4c67-4de3-893a-fb5467144de0.png)
-
-AdBlockPlus
-
-![image](https://user-images.githubusercontent.com/17956143/153539231-48d40fc4-c168-41e5-924c-c9e54b5a3336.png)
 
 
 ### Test Filter
