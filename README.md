@@ -4,11 +4,25 @@ This is a community submitted and automated list of known scam domain going arou
 
 # How to use
 
-You need to install AdBlockPlus, UBlock Origin or other ad blocker addon and then you can [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/xXBuilderBXx/DiscordScamBrowserFilter/master/filterlist.txt&title=Discord%20Scam%20Browser%20Filter)
+### Install an ad block addon.
 
-Click the Subscribe button at top right to confirm, this may be different for other adblockers.
+#### UBlock Origin (Recommended)
+[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Opera](https://addons.opera.com/en-gb/extensions/details/ublock/) | [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) | [Safari v12 and below](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
+
+#### ADBlockPlus
+[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/adblock-plus/) | [Chrome](https://chrome.google.com/webstore/detail/cfhdojbkjhnklbpkdaibdccddilifddb) | [Opera](https://addons.opera.com/en-gb/extensions/details/adblock-plus/) | [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gmgoamodcdcjnbaobigkjelfplakmdhh) | [Safari v12 and below](https://apps.apple.com/us/app/adblock-plus-for-safari/id1432731683?ls=1)
+
+-----
+
+### Subscribe to the filter list
+
+[Click Here to Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/xXBuilderBXx/DiscordScamBrowserFilter/master/filterlist.txt&title=Discord%20Scam%20Browser%20Filter)
+
+### Confirm to add
 
 ![image](https://user-images.githubusercontent.com/17956143/153526455-2f561ca8-4c67-4de3-893a-fb5467144de0.png)
+
+### Test Filter
 
 You can check if the filter is working by going to [https://thisisatestdomain.com](https://thisisatestdomain.com)
 
