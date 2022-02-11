@@ -4,5 +4,7 @@
 ! Homepage: https://github.com/xXBuilderBXx/DiscordScamBrowserFilter
 
 # NOTICE: Sites listed here have been community submitted or automatically detected to be known scam links
+# WARNING: DO NOT visit any of these websites listed below
 
 ||thisisatestdomain.com^$important,all
+
