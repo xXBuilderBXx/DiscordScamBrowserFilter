@@ -8,8 +8,8 @@ This is a community submitted and automated list of known scam domain going arou
 
 [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Opera](https://addons.opera.com/en-gb/extensions/details/ublock/) | [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) | [Safari v12 and below](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
 
-ADBlockPlus does not work!!
-Please replace it with UBlock Origin.
+### AdBlockPlus
+This does not work please replace it with UBlock Origin.
 
 ### Subscribe to the filter list
 
