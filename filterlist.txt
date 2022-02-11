@@ -1,4 +1,6 @@
-! Title: Discord Scam Filter
+[Adblock Plus 2.0]
+! Title: Discord Scam Browser Filter
+! Expires: 1 hour
 ! Homepage: https://github.com/xXBuilderBXx/DiscordScamBrowserFilter
 
 # NOTICE: Sites listed here have been community submitted or automatically detected to be known scam links
