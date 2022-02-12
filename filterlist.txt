@@ -8294,3 +8294,6 @@
 ||moderator-academy-invite.net^$important,all
 ||dcmoderatorsquad.com^$important,all
 ||hypesquadevents-application.com^$important,all
+||discord-game-developer.com^$important,all
+||discordacademy.site^$important,all
+||academy-discord-hypesquad.com^$important,all
