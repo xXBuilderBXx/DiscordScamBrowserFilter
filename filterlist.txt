@@ -8289,3 +8289,5 @@
 ||testmod-academy.com^$important,all
 ||nitro-disc.org.ru^$important,all
 ||modtestacademy.com^$important,all
+||hypesquad-events-register.com^$important,all
+||hypesquad-events-sign-in.com^$important,all
