@@ -8288,3 +8288,4 @@
 ||supportmoderatoracademy.com^$important,all
 ||testmod-academy.com^$important,all
 ||nitro-disc.org.ru^$important,all
+||modtestacademy.com^$important,all
