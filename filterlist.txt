@@ -8291,3 +8291,4 @@
 ||modtestacademy.com^$important,all
 ||hypesquad-events-register.com^$important,all
 ||hypesquad-events-sign-in.com^$important,all
+||moderator-academy-invite.net^$important,all
