@@ -8293,3 +8293,4 @@
 ||hypesquad-events-sign-in.com^$important,all
 ||moderator-academy-invite.net^$important,all
 ||dcmoderatorsquad.com^$important,all
+||hypesquadevents-application.com^$important,all
