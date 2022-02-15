@@ -8526,3 +8526,6 @@
 ||message-hypesquad-events.com^$important,all
 ||join-bedevelopers.com^$important,all
 ||invite-moderators-discord.com^$important,all
+||mod-invitation.com^$important,all
+||free-nitro.net.ru^$important,all
+||freenitro.org.ru^$important,all
