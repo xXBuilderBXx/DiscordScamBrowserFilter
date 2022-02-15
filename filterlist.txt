@@ -8475,3 +8475,13 @@
 ||nitro-discord-best.xyz^$important,all
 ||jobsdiscord.com^$important,all
 ||mod-invite-academy.com^$important,all
+||message-discord-academy.com^$important,all
+||discord-request.com^$important,all
+||moderators-become.com^$important,all
+||returns-moderators-academy.com^$important,all
+||moderators-help.com^$important,all
+||hypesquadeventessaccess.com^$important,all
+||hypesquadeventss-signup.com^$important,all
+||signup-formulary.com^$important,all
+||dlscors.gift^$important,all
+||hypesquadsubscribe.com^$important,all
