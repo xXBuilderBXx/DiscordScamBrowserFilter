@@ -8296,7 +8296,6 @@
 ||modacademyexam.com^$important,all
 ||stearncomnunity.com.ru^$important,all
 ||steemcommunltu.net.ru^$important,all
-||crisp.help^$important,all
 ||steamcommunityzyb.top^$important,all
 ||steamcommunityzyc.top^$important,all
 ||steamcomunitly.com^$important,all
