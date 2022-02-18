@@ -6563,7 +6563,6 @@
 ||sternncomnnunity.ru^$important,all
 ||dlscordglfts.xyz^$important,all
 ||steamcomminytui.ru^$important,all
-||discordturkiye.com^$important,all
 ||dlscord-apps.com^$important,all
 ||dlscord.gift^$important,all
 ||steamwanmeijc.ru^$important,all
