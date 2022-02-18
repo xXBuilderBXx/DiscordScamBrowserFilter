@@ -5231,7 +5231,6 @@
 ||dscocrd.com^$important,all
 ||dlscord-nitro.site^$important,all
 ||discrodnitro.site^$important,all
-||discordgift.site^$important,all
 ||dlscord-gift.online^$important,all
 ||discordapp.one^$important,all
 ||disxordapp.com^$important,all
@@ -6618,7 +6617,6 @@
 ||steancommunytiu.ru^$important,all
 ||steamoperation.site^$important,all
 ||discord-nitrogift.com^$important,all
-||dicsord.gq^$important,all
 ||discordpromos.us^$important,all
 ||dixinl.github.io^$important,all
 ||dlscordglft.site^$important,all
@@ -8134,7 +8132,6 @@
 ||discords.in^$important,all
 ||discerd.gift^$important,all
 ||discxrd.gift^$important,all
-||transfer.sh^$important,all
 ||moderators-sub.com^$important,all
 ||discord-hitro.xyz^$important,all
 ||nitro-w.xyz^$important,all
