@@ -2293,7 +2293,6 @@
 ||newdiscord.online^$important,all
 ||streamcomrnunity.ru^$important,all
 ||discordgifte.site^$important,all
-||discordbots.app^$important,all
 ||disconrd.com^$important,all
 ||dlscord.cc^$important,all
 ||staemcommunitu.com^$important,all
